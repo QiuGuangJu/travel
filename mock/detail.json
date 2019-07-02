@@ -1,0 +1,19 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "重庆园博园(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1711/c7/c79ecb5075f17c53a3.img.jpg_600x330_212880de.jpg",
+    "galleryImgs": ["http://img1.qunarzz.com/sight/p0/1711/c7/c79ecb5075f17c53a3.img.jpg_600x330_212880de.jpg", "http://img1.qunarzz.com/sight/p0/1711/b6/b65e9ce50d1f2d47a3.img.jpg_350x240_7f8f907d.jpg"],
+    "categoryList": [{
+      "title": "门票",
+      "children" : [{
+        "title": "重庆园博园大门票"
+      }]
+    }, {
+      "title": "电子门票",
+      "children": [{
+        "title": "电子门票"
+      }]
+    }]
+  }
+}

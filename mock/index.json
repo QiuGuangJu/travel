@@ -1,0 +1,127 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id":"0001",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/a5379fa4391437e3c111d17e59ed24d3.jpg_750x200_3126a045.jpg"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1811/31/da037478f37cf202.jpg_750x200_fe28d396.jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/647148a2b7a64d45e1b067053bf5ea82.jpg_750x200_45f23d4d.jpg"
+    }],
+
+    "iconsList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc": "热门景点"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "desc": "一日游"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "desc": "重庆必游"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/de711920c71e38287d9f95f7910aa1aa.png",
+      "desc": "精品小团"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+      "desc": "室内场馆"
+    }, {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+      "desc": "两江夜游"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png",
+      "desc": "神秘武隆"
+    }, {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+      "desc": "泡温泉"
+    }, {
+      "id": "0009",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fc/b10a6b2e4f0fe102.png",
+      "desc": "重庆滑雪"
+    }, {
+      "id": "0010",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+      "desc": "游乐场"
+    }],
+
+    "recommandList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/be/be4802e10f3b3107.water.jpg_250x250_45ab93e6.jpg",
+      "title": "武隆天坑地缝国家地质公园",
+      "desc": "重庆武隆喀斯特”是中国南方喀斯特的重要组成部分,是深切型峡谷的杰出代表,它不仅是反映地球演化历史的杰出范例,而且还是生命的记录,记录重要的、正在进行的地貌演化，重要的地貌形态或自然地理特征。他孕育出的三个独立喀斯特系统，即芙蓉洞洞穴系统、天生三桥喀斯特系统和后坪冲蚀型天坑喀斯特系统，三者均是在长江三峡地区新近纪以来地壳大幅抬升的机制下发育形成的各异的的喀斯特系统，具有喀斯特特征的世界性意义。 　　——芙蓉洞，发育寒武系和奥陶系碳酸盐岩中，由同汽坑洞、摔人洞、卫江岭洞、垌坝洞、新路口洞、水帘洞、芙蓉洞、干矸洞和四方洞等洞穴组成，以汽坑洞为代表的垂向洞穴是洞穴探险爱好者和探险家的乐园，以芙蓉洞为代表的横向洞穴。洞体规模宏大，洞内次生物理—化学沉积物多样而丰富，洞穴的各种溶蚀形态，壮观的崩塌堆积，目不暇接的钟乳石类，现阶段不同处境的洞内池塘，石钟乳的坠落及其破坏现象等等无不记录着它的沧桑历史演进过程，我国的著名洞穴专家朱学稳教授评价说“从科学研究和科学普及方面看，芙蓉洞堪称是“一座洞穴科学博物馆"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/c7/c79ecb5075f17c53a3.img.jpg_250x250_e5ff093e.jpg",
+      "title": "重庆园博园",
+      "desc": "园博园位于重庆市北部新区龙景湖公园，现有面积219.6831公顷，四面临街，可远眺缙云山、鸡公山，嘉陵江温塘峡、观音峡等山景、水景、峡景和北碚城市景观，可满足游览休息。耗资近20亿、占地3300亩的重庆园博园，是一个集自然景观和人文景观为一体的超大型城市生态公园"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1805/ad/ad507355a167f587a3.img.jpg_250x250_608b4e13.jpg",
+      "title": "重庆长江索道",
+      "desc": "重庆地处两江交汇处，城在山中，山在水中，水中有山、山中有城，既是“江城”，又是“山城”，更以“不夜城”惊艳四海。长江索道景区浓缩了“江城、山城、不夜城”的精华：春夏之际，渝中半岛，霞光辉映，凌空飞渡，一片孤城万仞山；秋冬雨后，山城重庆，若隐若现，御风而行，游雾缭绕似仙境；夜幕垂落，华灯闪烁，临风赏景，飞渡星河之上，行游灯火之巅。随着城市天际线及空间景观层次变幻，犹如观看一部动感十足的3D版城市电影。"
+    }],
+
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1812/4c/33ad31d025fef.jpg_r_640x214_7821b813.jpg",
+      "title": "重庆夜景大赏",
+      "desc": "享巴渝特色，赏两江风光，感受不一样的重庆夜景！"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/5f/276ed6784d25ee.jpg_r_640x214_2193082e.jpg",
+      "title": "重庆优质汤泉",
+      "desc": "细数重庆那些最赞的温泉"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/53/4bcd11cc3a5374.jpg_r_640x214_988a4cee.jpg",
+      "title": "重庆必打卡",
+      "desc": "重庆，非去不可"
+    }],
+
+    "weekTops": [{
+      "id": "0001",
+      "rankImgUrl": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1711/c7/c79ecb5075f17c53a3.img.jpg_250x250_e5ff093e.jpg",
+      "title": "重庆园博园",
+      "price": "4.5"
+    }, {
+      "id": "0002",
+      "rankImgUrl": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/e4/e4b97c2fbb4e696a3.img.png_250x250_0aa87bab.png",
+      "title": "重庆欢乐谷",
+      "price": "150"
+    }, {
+      "id": "0003",
+      "rankImgUrl": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/be/be4802e10f3b3107.water.jpg_250x250_45ab93e6.jpg",
+      "title": "武隆天坑地缝国家地质公园(AAAAA景区)",
+      "price": "48"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1805/ad/ad507355a167f587a3.img.jpg_250x250_608b4e13.jpg",
+      "title": "重庆长江索道",
+      "price": "28"
+    },{
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1810/36/36ed80c6e147d019a3.img.png_250x250_d039f35c.png",
+      "title": "重庆两江夜游",
+      "price": "108"
+    },{
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/12/ed83b9bb54ccc7ff1f0989a7ebc2e312.jpg_250x250_fa63b5e9.jpg",
+      "title": "洪崖洞",
+      "price": "108"
+    }]
+  }
+
+}
